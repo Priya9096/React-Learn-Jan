@@ -18,3 +18,19 @@
 
 ### How a ReactJS Project Works
 [Watch Video](https://youtu.be/6ZsNthf_HCk?si=C6T_Tjeha8gsUVAf)
+
+### React Functional Component: Creating Home, About, Contact
+[Watch Video](https://youtu.be/21aeaRjNrJo?si=y0Z1iehWLNFD0k08)
+
+### Single Page vs Multi Page Applications Explained
+[Watch Video](https://youtu.be/21_KxVd9SPk?si=X5zXDQErHCPB-F-V)
+
+### React Props Explained:
+[Watch Video](https://youtu.be/b4IONtNawY0?si=nfMew-8zMpxJpFdF)
+
+
+
+
+
+
+
