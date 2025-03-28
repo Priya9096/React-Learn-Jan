@@ -28,6 +28,6 @@ Click on the links to watch the videos and start your **React journey** today! �
 ---
 
 ## 🔥 Stay Connected  
-🌟 **GitHub Profile:** [Priya9096](https://github.com/Priya9096)  
+🌟 **Here:** [Priya9096](https://www.youtube.com/@JobReadyCoderZ)  
 
 🚀 **Keep Learning, Keep Building!** 🔥
