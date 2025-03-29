@@ -24,6 +24,8 @@ Click on the links to watch the videos and start your **React journey** today! �
 | **React Class Component and this.props** | [▶ Watch Video](https://youtu.be/ljos_b_vtpw?si=COnU541afvjAbvGN) |
 | **React Class vs Functional Component** | [▶ Watch Video](https://youtu.be/L_2_wfttETg?si=fvCBG4FXaQbGzJbO) |
 | **Mastering State Variables in React** | [▶ Watch Video](https://youtu.be/qpk3LFqc-m8?si=UCGN7qhXCFmAkgGz) |
+| **Mastering React Router** | [▶ Watch Video](https://youtu.be/3e3PUB0IsyA?si=aUc1fadyVVg3z0Jj) |
+| **Understanding Props Drilling** | [▶ Watch Video](https://youtu.be/XBe4_Xg_VsQ?si=0JpTub759ddlI5RQ) |
 
 ---
 
