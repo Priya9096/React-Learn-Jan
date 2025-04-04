@@ -27,11 +27,20 @@ Click on the links to watch the videos and start your **React journey** today! �
 | **Mastering React Router** | [▶ Watch Video](https://youtu.be/3e3PUB0IsyA?si=aUc1fadyVVg3z0Jj) |
 | **Understanding Props Drilling** | [▶ Watch Video](https://youtu.be/XBe4_Xg_VsQ?si=0JpTub759ddlI5RQ) |
 | **Redux Revision** | [▶ Watch Video](https://youtu.be/Kazs2WJg8kE?si=wreBawl_0vhwzhzX) |
-| **Git and GitHub Playlist** | [▶ Watch Video](https://youtu.be/jFhrupIej8E?si=G1ZyE0tF4fCaL8dp) |
+| **Virtual and Actual DOM in React** | [▶ Watch Video]() |
+| **Lists & Keys** | [▶ Watch Video]() |
+| **React Hooks** | [▶ Watch Video]() |
+| **Controlled vs Uncontrolled Components** | [▶ Watch Video]() |
+| **Life Cycle Model** | [▶ Watch Video]() |
+| **Context APIs** | [▶ Watch Video]() |
+| **API Handling** | [▶ Watch Video]() |
+| **API Integration** | [▶ Watch Video]() |
+| **Git and GitHub Playlist with PortFolio** | [▶ Watch Video](https://youtu.be/jFhrupIej8E?si=G1ZyE0tF4fCaL8dp) |
 | **Level 1 Project : QuizApp** | [▶ Watch Video](https://youtu.be/JzyLEU_FAZE?si=Ny4IVIW4gPBUp3Hy) |
 | **Level 2 Project : TaskBuddy** | [▶ Watch Video](https://youtu.be/Q4aB0IgKYx0?si=hPPt6RpRWZdkHM1h) |
-| **Level 3 Project : CRUD Operation** | [▶ Watch Video](https://youtu.be/JzyLEU_FAZE?si=Ny4IVIW4gPBUp3Hy) |
-| **Level 4 Project : Ecommerce Frontend Designing** | [▶ Watch Video](https://youtu.be/Q4aB0IgKYx0?si=hPPt6RpRWZdkHM1h) |
+| **Level 3 Project : CRUD Operation** | [▶ Watch Video]() |
+| **Level 4 Project : Auth System** | [▶ Watch Video]() |
+| **Level 5 Project : Ecommerce Frontend Designing** | [▶ Watch Video]() |
 
 ---
 
